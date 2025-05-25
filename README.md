@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hello, I'm Jhinkz018!
 
-<!--
-**Jhinkz018/Jhinkz018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate developer dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[voltix](https://github.com/Jhinkz018/voltix)** – Script to automate reward claiming using proxy and Ethers.js
+- **[OpenLedger-BOT](https://github.com/Jhinkz018/OpenLedger-BOT)** – A bot for interacting with OpenLedger with proxy and CAPTCHA handling
+- **[teneo-autoref](https://github.com/Jhinkz018/teneo-autoref)** – Auto referral script for Teneo network with Web3 support
+- **[0g-da-node](https://github.com/Jhinkz018/0g-da-node)** – Tools for managing 0G DA nodes
+
+> Explore more in my repos!
+
+## 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+
+## 📊 GitHub Stats
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jhinkz018&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jhinkz018&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+## 📫 Let's Connect
+
+- Email: [reinsakura018@gmail.com](mailto:your.email@example.com)
+- Telegram: [@xmeth018](https://t.me/YourTelegram)
