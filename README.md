@@ -24,9 +24,9 @@ I'm a passionate developer dedicated to building innovative solutions and contin
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
 </p>
-
+</p>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jhinkz018&theme=tokyonight" alt="GitHub Streak"/>
 </p>
