@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Jhinkz018!
+# 👋 Hello, I'm Jhinkz!
 
 I'm a passionate developer dedicated to building innovative solutions and continuously expanding my skill set. My GitHub repositories reflect my journey through various technologies and projects.
 
